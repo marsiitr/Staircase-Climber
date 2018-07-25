@@ -5,7 +5,7 @@
 To make the bot climb the stair of various height by detecting it of its own. 
 Basically Bot use rack and pinion to climb the stair.
 ## Final Model
-![model] (stairclimber.jpg)
+![](stairclimber.jpg)
 
 ## Algorithm  
 Rack is attached to bot by a link and that link is connected to servo with which we can change the angle of rack according to height of the stair . pinion is connected to the main motor which has high torque to lift the weight of the bot up to stair.
