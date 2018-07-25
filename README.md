@@ -19,3 +19,9 @@ Chasie is consist of two wheel differential with one caster wheel in back in tot
 ### Problem faced  
 While climbing up ,the weight of the whole bot is only on the rack which make the bot  tilt and sometime whole bot topple.
 During climbing up when wheels touches the wall of the stair it pushes the bot backward and make it difficult for the bot to reach at the  step floor ,to solve this we attach star shaped wheel .
+### Team members
+1. Sanjeev 
+2. Vedvyas danturi
+### Mentor
+1. Aayushi shrivastava
+2. Bhavya giri goswami 
